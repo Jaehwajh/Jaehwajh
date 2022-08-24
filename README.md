@@ -29,6 +29,8 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 </p>
 
 
+---
+
 
 <h2 align="center">Languages and Tools:</h2>
 
