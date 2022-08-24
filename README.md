@@ -25,7 +25,7 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 
 
 <p align="center">
-  👨‍💻 All of my projects and client work are available at [https://jameshwang.netlify.app/#](https://jameshwang.netlify.app/#)
+  👨‍💻 All of my projects and client work are available at <a href="https://jameshwang.netlify.app/#">here</a>
 </p>
 
 
