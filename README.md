@@ -1,3 +1,5 @@
+<img src="https://imgur.com/a/GJSCVt0.jpg" width="100%">
+
 <h1 align="center">Hi 👋, I'm James Hwang</h1>
 <h3 align="center">A Full-Stack Software Engineer in Los Angeles, California</h3>
 
