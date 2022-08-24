@@ -30,7 +30,7 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 
 
 
-<h3 align="center">Languages and Tools:</h3>
+<h2 align="center">Languages and Tools:</h2>
 
 
 
