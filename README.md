@@ -19,7 +19,9 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 
 
 <p align="center">
- 🔭 I’m currently working on **100 Hours Project**
+  🔭 I’m currently working on **100 Hours Project**
+  
+  
  👨‍💻 All of my projects are available at [https://jameshwang.netlify.app/#](https://jameshwang.netlify.app/#)
 </p>
 
