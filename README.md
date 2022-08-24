@@ -1,14 +1,13 @@
 <img src="images/minimalist-forest-river-art-1-4k edited.jpg" width="100%">
 
 <p align="center">
-  
   <a href="https://twitter.com/@jaehwajh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jaehwajh" height="30" width="40" />
   </a>
   <a href="https://linkedin.com/in/https://www.linkedin.com/in/hwangjames/" target="blank"><img align="center"       		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hwangjames/" height="30" width="40" />
   </a>
 </p>
 
-<p>
+<p align="center">
 A Full-Stack Software Engineer, I am passionate about the world of technology and it's limitless potential to change the world. 
 </p>
 
