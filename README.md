@@ -12,13 +12,15 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 </p>
 
 
+<h3>
+  Projects
+</h3>
+
 - 🔭 I’m currently working on **100 Hours Project**
 
 - 👨‍💻 All of my projects are available at [https://jameshwang.netlify.app/#](https://jameshwang.netlify.app/#)
 
-- 📫 How to reach me **jameshwang334@gmail.com**
 
-- ⚡ Fun fact **I'm an MMO junkie**
 
 
 <h3 align="center">Languages and Tools:</h3>
