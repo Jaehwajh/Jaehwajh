@@ -47,7 +47,7 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 
 
 <h2 align="center">
-  Connect with me
+  Reach out
 </h2>
 
 <p align="center">
