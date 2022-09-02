@@ -57,7 +57,7 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
   </a>
   <a href="https://docs.google.com/document/d/1OZuMD5s6LyhO4AdGRuf-czIxKxwn4h-a5dV9P5lhh90/edit?usp=sharing" target=blank><img align="center" src="images/icons8-document-40.png" alt="resume" height="40" width="40"/>Resume
   </a>
-  <a href="https://jameshwang.netlify.app/#" target=blank><img align="center" src="images/icons8-website-50.png" alt="https://jameshwang.netlify.app/#" height="40" width="40"/>Website
+  <a href="https://hwangjames.netlify.app/" target=blank><img align="center" src="images/icons8-website-50.png" alt="https://jameshwang.netlify.app/#" height="40" width="40"/>Website
   </a>
 </p>
 
