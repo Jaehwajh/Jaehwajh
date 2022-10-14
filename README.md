@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://twitter.com/@jaehwajh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jaehwajh" height="40" width="40" />Twitter
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/hwangjames/" target="blank"><img align="center"       		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hwangjames/" height="29" width="39" />Linkedin
+  <a href="https://www.linkedin.com/in/hwangjames/" target="blank"><img align="center"       		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hwangjames/" height="29" width="39" />Linkedin
   </a>
   <a href="https://docs.google.com/document/d/1OZuMD5s6LyhO4AdGRuf-czIxKxwn4h-a5dV9P5lhh90/edit?usp=sharing" target=blank><img align="center" src="images/icons8-document-40.png" alt="resume" height="40" width="40"/>Resume
   </a>
@@ -63,7 +63,7 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 <p align="center">
   <a href="https://twitter.com/@jaehwajh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@jaehwajh" height="40" width="40" />Twitter
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/hwangjames/" target="blank"><img align="center"       		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hwangjames/" height="29" width="39" />Linkedin
+  <a href="https://www.linkedin.com/in/hwangjames/" target="blank"><img align="center"       		src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hwangjames/" height="29" width="39" />Linkedin
   </a>
   <a href="https://docs.google.com/document/d/1OZuMD5s6LyhO4AdGRuf-czIxKxwn4h-a5dV9P5lhh90/edit?usp=sharing" target=blank><img align="center" src="images/icons8-document-40.png" alt="resume" height="40" width="40"/>Resume
   </a>
