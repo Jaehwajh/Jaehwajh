@@ -25,7 +25,7 @@ A Full-Stack Software Engineer, I am passionate about the world of technology an
 
 
 <p align="center">
-  🔭 I’m currently working on <a href="https://github.com/Jaehwajh/MangaBookmark">Manga Bookmark Full Stack Application</a>
+  🔭 I’m currently working on <a href="https://github.com/Jaehwajh/MangaBookmark">Manga Bookmark Full Stack Application</a> and <a href="https://github.com/Jaehwajh/ITSupport">IT Support Concept App</a>
 </p>
 
 
